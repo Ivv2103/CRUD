@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Crudspring/src/main/resources/index.java&apos; to &apos;index.html&apos;" description="Rename resource &apos;index.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/index.java" name="index.html" stamp="1636782800778" updateReferences="true"/>
+</session>

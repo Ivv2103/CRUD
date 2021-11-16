@@ -1,0 +1,5 @@
+package com.ivv.demo.interfaces;
+
+public class IProducto {
+
+}

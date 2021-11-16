@@ -1,0 +1,5 @@
+package com.ivv.demo.interfaceService;
+
+public interface IProductoService {
+
+}

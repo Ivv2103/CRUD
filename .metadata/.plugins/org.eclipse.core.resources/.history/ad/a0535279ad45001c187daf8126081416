@@ -1,0 +1,7 @@
+package com.ivv.demo.interfaces;
+import org.springframework.data.repository.CrudRepository;
+import com.ivv.demo.modelo.Producto;
+
+public interface IProducto extends CrudRepository <Producto, Long>{
+
+}
